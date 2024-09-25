@@ -1,0 +1,23 @@
+/* Aplicar estilos globales */
+body {
+    background-color: #f0f2f6;
+}
+
+/* Personalizar botones */
+.stButton button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 8px;
+}
+
+/* Estilo de la barra lateral */
+.stSidebar {
+    background-color: #2e2e2e;
+    color: white;
+}
+
+/* Estilos de encabezados */
+h1, h2, h3, h4 {
+    color: #333333;
+}
+
